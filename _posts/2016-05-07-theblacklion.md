@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'http://theblacklion.net'
 inLanguage: null
 keywords: []
-description: 'Welcome to theblacklion.net, my personal webpage on which I plan to share all kinds of things I am messing around with in my personal time. Mostly this means computer related stuff and tips & tricks around issues I came across and managed to solve, in the hope this might help others too.'
-datePublished: '2016-05-07T14:33:18.283Z'
-dateModified: '2016-05-07T14:32:46.002Z'
+description: 'Welcome to theblacklion.net, my personal webpage on which I plan to share all kinds of things I am messing around with in my personal time. Mostly this means computer related stuff and tips & tricks around issues I came across and managed to solve, in the hope this might help others too. '
+datePublished: '2016-05-07T14:36:02.045Z'
+dateModified: '2016-05-07T14:35:53.265Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +23,7 @@ starred: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22629a29-37b5-4f73-8070-c5c22b6228bf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10fa9e48-1c9a-4859-9b8a-1b934223581b.jpg)
 
 Welcome to theblacklion.net, my personal webpage on which I plan to share all kinds of things I am messing around with in my personal time. Mostly this means computer related stuff and tips & tricks around issues I came across and managed to solve, in the hope this might help others too.
 
