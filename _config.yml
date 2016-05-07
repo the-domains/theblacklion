@@ -1,7 +1,8 @@
 name: TheBlackLion
 favicon: null
-layout_spectrum: 0.24494611145928502
-typography_spectrum: 0.20212304964661598
+layout_spectrum: 0.47863
+typography_spectrum: 0.50121
+title: TheBlackLion
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#c81f18'
+    - '#eea534'
+    - '#e07025'
+    - '#644225'
   brandStrength: 0.2534903532359749
   lightness: 0.28204879839904606
   saturation: 0.31327037839218974
