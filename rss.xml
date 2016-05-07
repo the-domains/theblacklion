@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheBlackLion]]></title>
         <description><![CDATA[TheBlackLion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://theblacklion.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 14:38:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 14:40:03 GMT</lastBuildDate>
+        <atom:link href="http://theblacklion.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4410ff0f-cbfe-453b-a344-01367ebb5e84.jpg">]]></description>
-            <link>undefined2fec0977-f231-4dfe-b25f-d9ba50dfe6ff/index.html</link>
+            <title><![CDATA[TheBlackLion]]></title>
+            <description><![CDATA[<article><h1>TheBlackLion</h1><p>Logo TheBlackLion</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e36393acd02fb9b494608b2fbc1aff4a3aea97bd.jpg"></article>]]></description>
+            <link>http://theblacklion.net/2fec0977-f231-4dfe-b25f-d9ba50dfe6ff/index.html</link>
             <guid isPermaLink="false">2fec0977-f231-4dfe-b25f-d9ba50dfe6ff</guid>
-            <pubDate>Sat, 07 May 2016 14:38:47 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 14:40:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
