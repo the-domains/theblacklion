@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://theblacklion.net'
 inLanguage: null
 keywords: []
 description: 'Welcome to theblacklion.net, my personal webpage on which I plan to share all kinds of things I am messing around with in my personal time. Mostly this means computer related stuff and tips & tricks around issues I came across and managed to solve, in the hope this might help others too.'
-datePublished: '2016-05-07T14:22:45.743Z'
-dateModified: '2016-05-07T14:22:34.355Z'
+datePublished: '2016-05-07T14:23:32.123Z'
+dateModified: '2016-05-07T14:22:54.068Z'
 title: TheBlackLion
 author:
   - name: ''
