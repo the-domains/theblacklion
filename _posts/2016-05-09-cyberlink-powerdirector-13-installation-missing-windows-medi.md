@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Last week I ran into an issue when I wanted to install PowerDirector 13 on my PC. The setup program aborted with a message that I need Windows Media Player 9 or above although I have Windows Media Player 12 installed on my Windows 10.
-datePublished: '2016-05-09T18:17:16.450Z'
-dateModified: '2016-05-09T18:17:00.306Z'
+datePublished: '2016-05-09T19:59:15.536Z'
+dateModified: '2016-05-09T19:58:54.882Z'
 title: Cyberlink PowerDirector 13 installation missing Windows Media Player issue workaround
 author: []
+sourcePath: _posts/2016-05-09-cyberlink-powerdirector-13-installation-missing-windows-medi.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-cyberlink-powerdirector-13-installation-missing-windows-medi.md
 url: cyberlink-powerdirector-13-installation-missing-windows-medi/index.html
 _type: Article
 
