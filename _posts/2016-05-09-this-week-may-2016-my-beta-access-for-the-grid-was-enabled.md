@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "This week (May 2016) my beta access for The Grid was enabled. Actually this website as well as my let's play website atraleo.com is running on it.  After playing around with it for a few hours it definitely feels like a beta - actually an early beta (although I am member 40.000-something to be on-boarded)."
-datePublished: '2016-05-09T17:29:09.827Z'
-dateModified: '2016-05-09T17:28:46.447Z'
+datePublished: '2016-05-09T19:14:00.318Z'
+dateModified: '2016-05-09T19:13:49.879Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-09-this-week-may-2016-my-beta-access-for-the-grid-was-enabled.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-this-week-may-2016-my-beta-access-for-the-grid-was-enabled.md
 url: this-week-may-2016-my-beta-access-for-the-grid-was-enabled/index.html
 _type: Article
 
