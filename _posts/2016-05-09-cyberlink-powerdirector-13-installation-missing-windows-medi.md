@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Last week I ran into an issue when I wanted to install PowerDirector 13 on my PC. The setup program aborted with a message that I need Windows Media Player 9 or above although I have Windows Media Player 12 installed on my Windows 10.
-datePublished: '2016-05-09T19:59:15.536Z'
-dateModified: '2016-05-09T19:58:54.882Z'
+datePublished: '2016-05-14T07:40:36.830Z'
+dateModified: '2016-05-14T07:38:08.649Z'
 title: Cyberlink PowerDirector 13 installation missing Windows Media Player issue workaround
 author: []
 sourcePath: _posts/2016-05-09-cyberlink-powerdirector-13-installation-missing-windows-medi.md
@@ -29,9 +29,9 @@ With a little googling I found out that this issue also appears on older Windows
 
 I found a workaround by changing two registry values temporarily. Actually, I think only one needs to be changed, but I did not play around to figure out all the details. This is how it works:
 
-* Open regedit
-* Go to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\App Paths\\wmplayer.exe
-* You should see something like this - I used a German Windows, so depending on your language it will be slightly different for you:
+1) Open regedit  
+2) Go to HKEY\_LOCAL\_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\App Paths\\wmplayer.exe  
+3) You should see something like this - I used a German Windows, so depending on your language it will be slightly different for you:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a01a37e-675a-470a-8389-d64c3888213b.png)
 
 I think the PowerDirector installer cannot handle the quotes but maybe it also cannot handle the ProgramFiles(x86) variable. Also it is probably enough to change the value of (Standard) - (Default) in English. But what I did and worked is this:
