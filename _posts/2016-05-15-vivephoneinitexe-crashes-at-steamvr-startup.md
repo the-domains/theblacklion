@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Since I first tried to pair my iPhone with my HTC Vive I got the vivephoneinit.exe crash - also pairing did not work. But thanks to hurzhurz on reddit, I was finally able to get rid of this error and managed to pair iPhone and Vive.'
-datePublished: '2016-05-15T07:18:50.900Z'
-dateModified: '2016-05-15T07:18:38.761Z'
+datePublished: '2016-05-15T07:23:48.362Z'
+dateModified: '2016-05-15T07:23:35.351Z'
 title: vivephoneinit.exe crashes at steamvr startup
 author: []
+sourcePath: _posts/2016-05-15-vivephoneinitexe-crashes-at-steamvr-startup.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-vivephoneinitexe-crashes-at-steamvr-startup.md
 url: vivephoneinitexe-crashes-at-steamvr-startup/index.html
 _type: Article
 
@@ -38,9 +38,10 @@ Basically the issue is simply that vivephoneinit wants to write a debug log into
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92e52976-9f37-4121-b4b1-abc0c7c67ad9.png)
 
 4) Then check the checkbox at Modify and Write (should autoselected once you checked Modify) and click OK.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3012c24-8c9b-4bdd-b383-d2069c5322e2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c245a3-5de1-41bf-be08-82b74f6221d1.png)
 
-That should do it. Now, vivephoneinit.exe should not crash anymore and paring with your phone should work as well. Thanks again to [hurzhurz][1] for figuring that out.
+That should do it. Now, vivephoneinit.exe should not crash anymore and paring with your phone should work as well. Thanks again to [hurzhurz][1] for figuring that out.  
+
 
 [0]: https://www.reddit.com/r/Vive/comments/4h1jym/vivephoneinitexe_crashes_at_steamvr_startup/
 [1]: https://www.reddit.com/user/hurzhurz
