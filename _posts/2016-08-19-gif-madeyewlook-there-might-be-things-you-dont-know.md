@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-19T18:15:43.288Z'
+datePublished: '2016-08-19T18:19:43.719Z'
 sourcePath: _posts/2016-08-19-gif-madeyewlook-there-might-be-things-you-dont-know.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - url: 'https://www.youtube.com/user/MadeYewLook'
+    name: MadeYewLook
 via: {}
-dateModified: '2016-08-19T18:15:42.582Z'
+dateModified: '2016-08-19T18:19:43.251Z'
 title: GIF "MadeYewLook - There might be things you don't know"
 publisher: {}
 description: ''
