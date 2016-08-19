@@ -1,20 +1,4 @@
-name: TheBlackLion
-favicon: null
-layout_spectrum: 0.47863
 typography_spectrum: 0.50121
-title: TheBlackLion
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77405872-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.28204879839904606
   saturation: 0.31327037839218974
   rhythmicContrast: 0.20839327829889953
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.47863
+analytics:
+  google: UA-77405872-1
+  facebook: null
+  twitter: null
+name: TheBlackLion
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: ' About'
+    id: dc2d7094-3ea6-4d99-8f80-fd0b24ab0b9b
+    type: content
+favicon: null
+title: TheBlackLion
 purpose: []
