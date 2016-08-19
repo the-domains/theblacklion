@@ -5,18 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: GIF "MadeYewLook - There might be things you don't know"
-datePublished: '2016-08-19T18:04:25.411Z'
-dateModified: '2016-08-19T18:01:28.577Z'
+datePublished: '2016-08-19T18:07:27.243Z'
+dateModified: '2016-08-19T18:07:27.118Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-19-gif-madeyewlook-there-might-be-things-you-dont-know.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: gif-madeyewlook-there-might-be-things-you-dont-know/index.html
 _type: Article
